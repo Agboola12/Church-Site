@@ -1,0 +1,98 @@
+.water{
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)),url("/assets/12.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  overflow: hidden;
+  height: 50vh;
+}
+
+#join{
+  font-weight: bolder;
+  font-size: 4em;
+  color: #291B6F;
+}
+
+#small{
+  font-weight: bolder; 
+  font-size: 4em;
+  line-height: 1em;
+  color: #291B6F;
+}
+
+.department{
+  color:#291B6F;
+  font-weight: bolder;
+}
+
+.h5{
+  line-height: 2em;
+}
+
+#accept{
+  font-weight:bolder;
+  font-size: 4em; 
+  font-family: Comic Sans MS, cursive, sans-serif;
+}
+
+#pray{
+  background-color: #E4E4E4;
+  color: #291B6F;
+  border-color:#291B6F;
+  border-style: dotted;
+  border-width: 5px;
+}
+
+#baptism{
+  font-size: 5em; 
+  font-weight: bolder;
+  font-family: Comic Sans MS, cursive, sans-serif;
+}
+
+#department{
+  font-weight: bolder; 
+  font-size: 4em;
+  color: #291B6F;
+}
+
+#looking{
+  font-weight: bolder;
+  font-size: 1em;
+  color: #291B6F;
+}
+
+#image{
+  width: 500px;
+   height: 300px;
+}
+
+@media (max-width:360px) {
+  #christ{
+    line-height: 1em;
+  }
+  .water{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)),url("/assets/12.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    overflow: hidden;
+    height: 70vh;
+  }
+  #holy{
+    line-height: 1em;
+  }
+  #join{
+    line-height: 1em;
+  }
+  #image{
+    width: 200px;
+    height: 200px;
+  }
+  #department{
+    line-height: 1em;
+  }
+}

@@ -1,0 +1,18 @@
+#virtual{
+    font-weight:bolder;
+    color: #291B6F;
+    font-size: 4em;
+    font-family: Comic Sans MS, cursive, sans-serif;
+    line-height:1em;
+    margin-bottom: 2em;
+}
+
+#hrr{
+    background-color: red;
+    width: 100px;
+    height: 2px;
+}
+
+#word{
+    line-height: 2em;
+}

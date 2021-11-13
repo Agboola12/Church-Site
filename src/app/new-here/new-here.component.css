@@ -1,0 +1,13 @@
+#our{
+    font-weight:bolder;
+    font-size: 4em; 
+    line-height: 1em;
+}
+
+#practices{
+    padding-top:2em;
+    font-weight:bolder;
+    font-size: 3em;
+    color: blue;
+    text-align: center;
+}
